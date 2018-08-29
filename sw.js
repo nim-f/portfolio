@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/portfolio/app-b5b789d8ad188838ce04.js","075f05adf0a64fb53dfac387a07d96d8"],["/portfolio/commons-d9f904b53fd058cc9acf.js","9a66abc5866143521b215696efa477aa"],["/portfolio/index.html","c697d65126b7e32bf03eb3d4308e7623"],["/portfolio/manifest.webmanifest","d6583fa9aeccdd42b4812612994aa15d"],["/portfolio/offline-plugin-app-shell-fallback/index.html","ae88deadc4d25154f79ef028e8de2b38"]];
+var precacheConfig = [["/portfolio/app-b5b789d8ad188838ce04.js","075f05adf0a64fb53dfac387a07d96d8"],["/portfolio/app-b7ac040c181c85750a6a.js","1af4882b5fea3ddb8ed61ca1eae1a232"],["/portfolio/commons-081299172868151ccf32.js","02abc989a1ce19498d4732fa4925acef"],["/portfolio/commons-d9f904b53fd058cc9acf.js","9a66abc5866143521b215696efa477aa"],["/portfolio/index.html","67ab7cba2307ca86da814854c1e06a59"],["/portfolio/manifest.webmanifest","d6583fa9aeccdd42b4812612994aa15d"],["/portfolio/offline-plugin-app-shell-fallback/index.html","9b5d7dea95bfda78715d398ebce6a1ac"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
