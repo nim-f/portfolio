@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/naturals-vue-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/heroes-of-the-storm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/safety-steve</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/suzuki-vitara-30-years-of-adventures-react-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/dyson-art-of-cleaning-react-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/vizarsin-championat-react-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/porsche-sport-challenge-react-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/ruben-van-leer-wordpress</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/barwalking-react-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/kinder-spring-vue-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/lays-wavy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/lays-strong</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nim-f.github.io/portfolio/portfolio/portfolio/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/naturals-vue-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/heroes-of-the-storm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/safety-steve</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/suzuki-vitara-30-years-of-adventures-react-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/dyson-art-of-cleaning-react-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/vizarsin-championat-react-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/porsche-sport-challenge-react-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/ruben-van-leer-wordpress</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/barwalking-react-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/kinder-spring-vue-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/lays-wavy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/lays-strong</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nim-f.github.io/portfolioportfolio/portfolio/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
